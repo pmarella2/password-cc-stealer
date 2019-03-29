@@ -1,2 +1,2 @@
-# some-bullshit
-use this script on those you fucking hate
+# Password and CC Stealing - Python
+Purely for analysis
